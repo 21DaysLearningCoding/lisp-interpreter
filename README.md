@@ -1,5 +1,7 @@
 # lisp-interpreter
 
+难顶。
+
 这是一个Lisp的解释器，是伯克利CS 16A SICP的大作业。我用了2天用JS写了一个lisp解释器，毕竟Python不太熟。
 
 这个解释器支持如下功能
